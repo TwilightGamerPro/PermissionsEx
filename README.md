@@ -1,5 +1,6 @@
 
-**WARNING**: PermissionsEx is currently unmaintained and in search of a maintainer. Issues will not be accepted. Pull requests are. For people looking for an actively maintained permissions plugin, take a look at [LuckPerms](https://github.com/lucko/LuckPerms/wiki). It is compatible with major server platforms and can import data from PEX.
+**WARNING**: PermissionsEx is currently going to be changed a little bit and renamed under a different name.
+We all love permissionsEX, I know you do... and its better than essentials groupmanager.
 
 ---
 
